@@ -14,8 +14,8 @@ from werkzeug.utils import secure_filename
 #  CONFIG
 # ============================================================
 APP_SECRET = "your-secret-key-here-change-in-production"
-ADMIN_USERNAME = "ULTRAVPS"
-ADMIN_PASSWORD = "BABAJI"
+ADMIN_USERNAME = "ULTRAVPSA"
+ADMIN_PASSWORD = "VPSZZ11"
 DB_PATH = "panel.db"
 PID_FILE = "bot.pid"
 LOG_FILE = "bot.log"
